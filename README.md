@@ -2,6 +2,8 @@
 
 This project turns historical `@XboxSupport` Twitter conversations into a conservative first-line support agent. Given a customer post, it predicts one of nine intents, retrieves comparable historical cases and official Xbox Support pages, drafts a response, and chooses **auto-handle** or **escalate** with an explicit reason.
 
+**Report:** [XboxSupport Agent Report](XboxSupport_Agent_Report.docx)
+
 The current result is a useful prototype, **not deployment-ready**: on the locked 200-message golden set it reaches 0.455 macro-F1 for intent and has a 19.4% unsafe-auto-handle rate among messages it auto-handles. That safety result is the central finding.
 
 ## Reproduce in under 15 minutes
@@ -16,6 +18,8 @@ python .\support_agent.py "My Game Pass subscription will not renew"
 ```
 
 Expected headline outputs are written to `artifacts/intent_metrics.json` and `artifacts/golden_metrics.json`. The scripts use the prepared 20,158-row training split rather than the original 3M-row source, and normally finish in under a minute on this machine.
+
+This is intentionally a reproducible **subsample**, not a full-dataset run. The assignment explicitly permits a subsample, and a focused Xbox-only training set makes the results practical to reproduce and inspect.
 
 ## Data and labels
 
