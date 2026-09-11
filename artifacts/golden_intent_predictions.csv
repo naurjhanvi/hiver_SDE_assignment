@@ -1,0 +1,223 @@
+customer_tweet_id,customer_text,true_intent,predicted_intent
+511490,@XboxSupport The account that owns it is Wesleyp USA which is my account. My home Xbox is the 2nd one in the room in the video. https://t.co/WK6VktZXJC,account_access_profile,account_access_profile
+565154,"I'm an adult with a credit card, phone number and address which are all linked to my Microsoft account, but I can't change my Xbox profile picture even *after* I've verified my account is adult. Fuck you microsoft",account_access_profile,account_access_profile
+872927,@XboxSupport Hello I changed my gamertag 2 days ago but it still hasn’t changed.,account_access_profile,account_access_profile
+917810,"@XboxSupport account is clearly mine and I have answered the questions needed, please tell me why I am not being given the chance to change my password",account_access_profile,account_access_profile
+709308,@XboxSupport How can I stop my email from being displayed on my dashboard? Causes privacy issues while streaming,account_access_profile,how_to_product_information
+1103261,"@XboxSupport hi, i have only 10sec to login to my internet builing network before the xbox starts testing the connexion. How can i fix this?",account_access_profile,connectivity_xbox_live
+1700524,"@XboxSupport when I try change me gamertag it just infinitely loads, what do i do?",account_access_profile,account_access_profile
+890034,@XboxSupport I forgot my email password and i don’t have the my old phone number and I don’t know how to reset my password,account_access_profile,account_access_profile
+513854,"@XboxSupport hello! I had a problem with my xbox account, my friend deleted my main xbox live account and i have no idea what is my email anymore, i only remember my gamertag, can you help me?",account_access_profile,account_access_profile
+502003,@XboxSupport i changed my gamertag and used my miney but it hasnt changed,account_access_profile,account_access_profile
+1345204,@XboxSupport @115790 @9914 When are you planning on solving the crash issues on the new Fifa when signing new players? #annoyed,account_access_profile,other_or_needs_context
+337170,@115786 @XboxSupport Why cant u download a profile on 360 anymore?,account_access_profile,how_to_product_information
+1039409,@XboxSupport why with the newest update can I no longer select which profile I want to sign in to using voice commands?,account_access_profile,how_to_product_information
+1425580,@XboxSupport The gamertag is oDangerr,account_access_profile,account_access_profile
+2232817,"@XboxSupport Legit question here, Do you know when you re rolling gamertags again? Or any idea when? I been in longing for a gamertag that has Zero g.s. for years now and the account is dead",account_access_profile,safety_enforcement_security
+968174,@XboxSupport is anyone else having issues with 360 sign in? I’m stuck on an infinite pop up of it saying I can’t log in,account_access_profile,account_access_profile
+1197693,@115786 @XboxSupport I’m getting messages from ransoms and apparently someone else has my gamertag as well? Really annoying!,account_access_profile,safety_enforcement_security
+2232726,@XboxSupport 6.5 days still await response from escalations team. £356.50 down. Dire service. Email to Xbox executives on its way 😡,account_access_profile,connectivity_xbox_live
+2856908,@XboxSupport I’m switching to PlayStation if y’all can’t  help me log into my account,account_access_profile,safety_enforcement_security
+1011088,@XboxSupport My profiles reputation has been on avoid me for 4 weeks now and the steps your website has provided to fix it isn’t working,account_access_profile,safety_enforcement_security
+1704316,"@XboxSupport I won the Taco Bell one X, but someone stole my forza 7 code. I should there anything that can be done, or am I SOL? Thanks",billing_codes_refunds,billing_codes_refunds
+957172,@115786 YOUR PAYMENT SERVICE THRU DEBIT/CREDIT CARD IS WORST TRIED ALL MY CARDS AND IT STILL WON'T AUTHORISING MY PAYMENT HELP,billing_codes_refunds,billing_codes_refunds
+1785439,@XboxSupport Now I can't pay online nor in the Xbox store. I also bought 3 different codes from Walmart and they didn't work. #HELPNEEDED,billing_codes_refunds,billing_codes_refunds
+2698159,"@XboxSupport $400 dollar hold on my card for an in-warranty refurbished exchanged when I can purchase a brand new console for $229.99 and $189.99 this weekend, Disappointing.",billing_codes_refunds,billing_codes_refunds
+1727323,@XboxSupport ummm my Xbox won’t adjust to daylight savings time and I’m trying to play my preorderd version of need for speed payback!!,billing_codes_refunds,game_content_download
+805125,"@117347 @5543 @XboxSupport Forza 7 is horrid!  Only single player works, I pre-ordered a working Beta game, #SMH",billing_codes_refunds,other_or_needs_context
+495503,"@XboxSupport trying to renew my Xbox live membership but it keeps saying ""this service is unavailable"" on Xbox 360 but I can purchase games?",billing_codes_refunds,subscription_game_pass_gold
+565143,"@XboxSupport Will unless you plan on overnight shipping me an Xbox One X, there isn't much you can do. I ordered a console over a week ago, it was marked shipped over a week ago, and the post office never received it. Customer Support has done nothing to resolve",billing_codes_refunds,billing_codes_refunds
+2365302,@XboxSupport my official plug and player charger won’t work on my Xbox one x controller but works fine on my other controllers just not my Xbox one x controller ??,billing_codes_refunds,how_to_product_information
+1757569,@XboxSupport Would like to know cause I'd like this game asap and would be willing to spend $20 as it's on sale atm. But don't really want to if I get the free code.,billing_codes_refunds,how_to_product_information
+2502550,@XboxSupport Thank you. I contacted support and they granted a refund for all unused purchases made in the past 30 days.,billing_codes_refunds,billing_codes_refunds
+2838895,@XboxSupport I purchased gold memebership and it shows that im a gold memeber but when i try to play online it tells me to subscribe to gold,billing_codes_refunds,subscription_game_pass_gold
+803618,@XboxSupport it says it cant process my payment,billing_codes_refunds,account_access_profile
+863742,"@325122 @XboxSupport They gave a full refund for all items purchased in game, except for a few that haven’t been approved for refund yet. Go on their website and go through support there. They were great about it. Have the order numbers.",billing_codes_refunds,billing_codes_refunds
+1516743,@XboxSupport Bought a digital copy of wolfenstein 2 was charged but saying i dont own it and its not under order history code (0x803f8001),billing_codes_refunds,billing_codes_refunds
+1080884,@XboxSupport Ich kann kein Gold verwenden. Habe eine Prepaid Karte eingelöst. Gamertag: Bl4ckSecret  ich bitte um Hilfe. 48h Code,billing_codes_refunds,subscription_game_pass_gold
+2597586,"@XboxSupport can purchase it, but I don't find it on your website. Could you help me please ? 2/2",billing_codes_refunds,how_to_product_information
+1029300,@XboxSupport Please fix the weak charging port on the controllers. They should be strong enough to charge and play not sit still and balance to charge.,billing_codes_refunds,other_or_needs_context
+558079,@XboxSupport it's not letting me redeem my Xbox live code,billing_codes_refunds,billing_codes_refunds
+49803,@XboxSupport will any stores have consoles in stock that were not pre-ordered?,billing_codes_refunds,how_to_product_information
+161542,@XboxSupport Hi am just wondering if the £8.99 3 month gold membership deal stacks with your current gold membership subscription?,subscription_game_pass_gold,subscription_game_pass_gold
+2644666,"@XboxSupport Hi, i have a problem with my xbox live subscription, I have put it but I still can't play online",subscription_game_pass_gold,subscription_game_pass_gold
+1411439,"@XboxSupport I keep getting error (0x803f900a) when I try to play a game from xbox game pass that I got yestrday, even tho account is right",subscription_game_pass_gold,subscription_game_pass_gold
+2352905,@213651 Strange thing is that I can download the free xbox live gold games of the month...,subscription_game_pass_gold,subscription_game_pass_gold
+1777097,@115890 @115787 @XboxSupport @115786 hey I got my one x and redeemed the Xbox live gold membership and it still won't let me play online.. help,subscription_game_pass_gold,subscription_game_pass_gold
+2275056,"@XboxSupport It is asking me for Xbox Live Gold and I have a gold subscription for another 2 months. I don't understand why it is happening, though.",subscription_game_pass_gold,subscription_game_pass_gold
+2142647,@XboxSupport there is something wrong with My (game pass) code i got with My Xbox1X. It won't accept it. Can u Pls halp!?!?!?,subscription_game_pass_gold,subscription_game_pass_gold
+2579798,@XboxSupport hey guys trying to put in the 30 day sub for game pass I got with my £450 console but get this. This cant be right https://t.co/18xidfj6Fh,subscription_game_pass_gold,subscription_game_pass_gold
+122597,@XboxSupport I have a quick question everything is great and running great on my Xbox can you still stack your Xbox Subscription codes,subscription_game_pass_gold,how_to_product_information
+166014,"@XboxSupport Hello, i can't renew the subscription on EA Access",subscription_game_pass_gold,subscription_game_pass_gold
+2249734,@XboxSupport I moved to a different country and now it won’t let me sign into my Xbox one account. I just want to turn off auto renew,subscription_game_pass_gold,account_access_profile
+109373,"@XboxSupport Yeah I’ve just renewed my 12 month gold subscription, and CoD WW2 doesn’t realise that I have Xbox Live anymore, help needed...",subscription_game_pass_gold,subscription_game_pass_gold
+2979280,@XboxSupport I am unable to terminate my EA Access subscription for GT: LordHighfixxer via https://t.co/TQBlwRmVXk,subscription_game_pass_gold,subscription_game_pass_gold
+2745423,@XboxSupport I have checked my Gold subscription and it says next time for renewal is 22 March 2018. But when I want to play online it asks to renew the subscription. What's the issue?,subscription_game_pass_gold,subscription_game_pass_gold
+2692021,@XboxSupport hi I just bought the Xbox live gold 12 month membership and just activated it with the code. But I am still unable to access online features on FIFA 18. Please help. (See image) https://t.co/CvNHCdUzcg,subscription_game_pass_gold,subscription_game_pass_gold
+2124080,@XboxSupport I cant redeem the code for game pass that came with my xbox one x. It tells me something went wrong everytime I try to turn it in. I tried via console and computer,subscription_game_pass_gold,account_access_profile
+2693859,@XboxSupport I want to cancel and have a refund for my Xbox live subscription. I don’t think your chat works because when I try I keep going randomly back and forth anywhere from 13th to 5th in line for 15 minutes now,subscription_game_pass_gold,billing_codes_refunds
+906798,So @XboxSupport NFL game pass said u guys r doing support for their app. Trying to fix games not available and really poor audio.can u help?,subscription_game_pass_gold,subscription_game_pass_gold
+589742,"@XboxSupport Sorry, I don't think you were reading my question.
+
+I'm unable to see Game Pass Goals on my Xbox One, in the Game Pass or Membership screens.",subscription_game_pass_gold,subscription_game_pass_gold
+2958834,@XboxSupport I purchased Gold but no game is detecting the subscription. Please help!,subscription_game_pass_gold,subscription_game_pass_gold
+2507167,"@XboxSupport It’s Ok now, it was just when i was downloading the game.",game_content_download,game_content_download
+288724,@XboxSupport just bought Forza 7 Ultimate but it won’t download! Very bummed. Please fix!,game_content_download,game_content_download
+2918953,@XboxSupport Its grand its because im downloading loads of games,game_content_download,game_content_download
+1764884,@XboxSupport aucun jeux s’installe sur la #XboxOneX ensuite impossible de me connecté sur mon profil et là c’est là meilleur @129009 @63058 https://t.co/6ol7zaoGQ9,game_content_download,console_accessory_display
+1589076,@XboxSupport There is no manual update listed for me to download under updates for the title.  Nothing in the store.  Just auto update.,game_content_download,game_content_download
+1080886,@XboxSupport There has to be a way to skip these updates and play the game! Our internet speeds aren't equipped for such large downloads/ updates! @115786,game_content_download,connectivity_xbox_live
+2441230,"@XboxSupport i've just cancelled an update for a game, as I wished to play another game. And once I did that it uninstalled the entire game from my console!! Why is this happening??!!",game_content_download,game_content_download
+1533391,@XboxSupport I downloaded the 29gb update for dead rising 4 and now it crashes when I try and load a save. Are you aware of this,game_content_download,game_content_download
+657735,"@XboxSupport Every time I play Gears of War 3 online through back compat I am kicked off XBL, only on the 360 emulator though, XB1 is still connected to internet and XBL. All other devices are connected to internet in home. Just back compat drops :( help pls",game_content_download,connectivity_xbox_live
+936997,@253408 @204138 @XboxSupport I tried to play Halo 3 BC with the new Xbox update and it keeps freezing when I select my save device,game_content_download,game_content_download
+2299933,"@XboxSupport, @115786 , @115890 
+
+I can't install FIFA. 
+I can't install WWII
+
+I'm. About. To. Go. Nuts.",game_content_download,game_content_download
+884617,"@XboxSupport Ever since the new update I haven't been able to navigate the party menu, I'd scroll down and my cursor would glitch back up please fix.",game_content_download,connectivity_xbox_live
+2244550,@XboxSupport I own a standard xbone so why am i being made to download a patch for titanfall2 which is a fix for issues with the game on the xbone X?,game_content_download,game_content_download
+1500389,@XboxSupport MY GAME JUST UNINSTALLED ITSELF FOR NO GODDAMN REASON... NOW I HAVE TO RE DOWNLOAD IT? WHAT THE FUCK PEOPLE?,game_content_download,game_content_download
+820805,@XboxSupport 1 more problem that I have is when I select cancel all in the downloads section instead of cancelling the game update it uninstalls the game,game_content_download,game_content_download
+2363792,"@XboxSupport I had to factory reset my Xbox One X. Is it normal that after a factory reset all my games lose track of the DLC I have, They all show up as installed but unless I uninstall and resintall all my DLC it just doesn't work.",game_content_download,game_content_download
+1353310,@116543 @XboxSupport @116543 can we gift extensions for a game ( like dlc packs or some 2 $ items ?,game_content_download,billing_codes_refunds
+118396,@XboxSupport @115786 @115787 how can i uninstall the xbox app i do not need two of them https://t.co/L5Rdo7IuGH,game_content_download,how_to_product_information
+879499,"@XboxSupport Hi, I'm really loving the new Fall Update but it's really sensitive when I press anything, can't tell if it's my remote or not.",game_content_download,game_content_download
+2280401,@XboxSupport They stated that it would be Xbox that would have to reinstate the dlc in the store so I could redownload it. They have no control over that,game_content_download,how_to_product_information
+62043,@XboxSupport I have just checked via both USB and wireless - it says the controller is up to date.,console_accessory_display,connectivity_xbox_live
+1751976,@XboxSupport when i power cycle my xbox it gets stuck on the green logo screen  :(,console_accessory_display,account_access_profile
+1569494,"@XboxSupport Why is it that in the middle of updating my controller, it randomly decided to stop turning on?",console_accessory_display,other_or_needs_context
+1051267,@XboxSupport Hi! The LB on my xbox controller (for pc) doesn't work right anymore. It registers twice or not at all sometimes. Can you help?,console_accessory_display,how_to_product_information
+395943,You can’t use Bluetooth headsets for the Xbox? @XboxSupport,console_accessory_display,how_to_product_information
+307085,@XboxSupport unable to launch the battlefront 2 beta. It freezes at user agreement screen. Please advise.,console_accessory_display,game_content_download
+2952624,@XboxSupport I only use 1 controller and after I reset it responds for about 2 minutes then stops again,console_accessory_display,account_access_profile
+1551122,@XboxSupport ive spent twice as much time staring at a loading screen or error messages than actually playing the game,console_accessory_display,account_access_profile
+1782114,@XboxSupport New controller and headset btw,console_accessory_display,console_accessory_display
+2196963,"@642715 @XboxSupport Unplugged and replugged, have not tried a different hdmi I guess! Thanks for the suggestion.",console_accessory_display,account_access_profile
+2277057,"@XboxSupport Yes, have tried different screens, hdmi cables, both the internal and multiple different external drives and all the same result.",console_accessory_display,account_access_profile
+167489,@XboxSupport It happens when I maneuver through the menus and guide with the left joystick and dpad also the camera on my TV will pan up by itself,console_accessory_display,account_access_profile
+1460424,"@XboxSupport That doesn’t help, hdmi is just an input for another device. It has nothing to do with tv signal. It’s just disappeared.",console_accessory_display,other_or_needs_context
+2244512,@XboxSupport  I'm having a stuttering &amp; dropped frames issue during gaming. and the controller locks a direction for the few seconds of that stuttering. Any help ?,console_accessory_display,account_access_profile
+2713661,"@XboxSupport But basically the XBOX turns off the controller automatically after 15 mins, regardless if plugged in or not. This doesn't happen on any of the other consoles. As someone who's forced to use headphones with a controller, this is... frustrating to say the least.",console_accessory_display,how_to_product_information
+60209,I think my @115786 just bricked with the new update. Been in a black screen for last 10 mins not going anywhere 😩 come on 😩 hard reboot 🤞,console_accessory_display,connectivity_xbox_live
+1692211,"@115787 @XboxSupport Any chance we can have usb headset support soon? I mean, PS4, PC and Switch have it.",console_accessory_display,how_to_product_information
+1701548,@XboxSupport Im getting an Xbox one x tomorow I wanna know if I can use the same power cables and HDMI from the Xbox one s on the Xbox one x,console_accessory_display,how_to_product_information
+2249657,@ATVIAssist @115765 @XboxSupport a week after launch and still not even a response about my rank being reset. No fix after all updates.,game_content_download,connectivity_xbox_live
+2276407,I just put new batteries from the store in my brand new Xbox controller that came with the one x and it dies within a hour I put another pair in dies another hour...so what's up with this? @115786 @XboxSupport,console_accessory_display,how_to_product_information
+2654531,@115786 @XboxSupport Please fix the ringing noise when people talk in party chat. It’s really annoying!,connectivity_xbox_live,connectivity_xbox_live
+513875,@XboxSupport awesome job with giving us a free game that we cannot connect to servers,connectivity_xbox_live,connectivity_xbox_live
+1166164,@XboxSupport Xbox Live isn't working for me in Germany! https://t.co/KOJ7POvEW8,connectivity_xbox_live,connectivity_xbox_live
+2840529,"@XboxSupport I had my console on last night into this morning and when I turned it on last night I still had the message and had to do all the Network tests I mentioned before and it fixed it, I just turned my Xbox back on and it’s showing the message again, fixed after doing Network tests.",connectivity_xbox_live,account_access_profile
+241115,@XboxSupport Since Xbox live starts Friday are they releasing the sale list Thursday evening.,connectivity_xbox_live,subscription_game_pass_gold
+1199623,@XboxSupport I need to change my Xbox Live birth date because of a typo. How can I do that?,connectivity_xbox_live,how_to_product_information
+974190,@XboxSupport another thing as well the threats i reported him for where said in a party chat,connectivity_xbox_live,safety_enforcement_security
+1780482,@XboxSupport hola en este momento no me puedo conectar a xbox live soy de Argentina e leido que los usuarios de xbox live tienen problemas,connectivity_xbox_live,subscription_game_pass_gold
+1549129,"cant get on xb1 servers I have spent more time trying to get in a game than actually playing 
+@ATVIAssist",connectivity_xbox_live,billing_codes_refunds
+101467,Is Xbox Live down? @XboxSupport,connectivity_xbox_live,connectivity_xbox_live
+1711647,"@XboxSupport Hi, I removed my portable hard drive and connect via Wifi. It worked. Sorry I can't provide a photo. My portable HDD may be bork.",connectivity_xbox_live,account_access_profile
+2196900,"@XboxSupport No error messages. Just 0 players worldwide and 0 players in my region. 
+
+It’s not an error with my console. Many people are suffering the same. 
+
+Gears of War 3 servers on XBox 360 have been down for at least 4 days. 
+
+There are many posts on the GoW forum from others. 
+
+Thanks",connectivity_xbox_live,connectivity_xbox_live
+615713,"@XboxSupport Secondly, my wife was never affected by the outage! And from the same house and connection.",connectivity_xbox_live,connectivity_xbox_live
+1625880,@XboxSupport any easy way to delete old clips from Xbox Live? Don't have time to go through each one and delete manually,connectivity_xbox_live,how_to_product_information
+2375657,@XboxSupport FIX UR DOWNLOAD SERVERS PLEASE,connectivity_xbox_live,connectivity_xbox_live
+1415482,@XboxSupport Somethings wrong with party chat. My friends hear me and one of my other friends really weirdly. They say I am extremely loud.,connectivity_xbox_live,connectivity_xbox_live
+1900761,@XboxSupport explain to me why every device on my apartment can connect to my WiFi except my Xbox.,connectivity_xbox_live,connectivity_xbox_live
+2794147,"@XboxSupport my console has never had a problem connecting to my internet b4, but it keeps saying I need additional authentication. However when I got to the linked page to authenticate it can’t find the page on the server? Any help?",connectivity_xbox_live,connectivity_xbox_live
+295082,"Can’t sync data from cloud, and I have a stable connection (it says no probs with the connection the X1) what should I do? @XboxSupport",connectivity_xbox_live,connectivity_xbox_live
+2624316,@XboxSupport constant disconnects from party chat,connectivity_xbox_live,connectivity_xbox_live
+2454869,"@XboxSupport  hi, I need support,  My  enforcement has ended and my communications are blocked yet. I can play online but not messages or stuff like that. Help.",safety_enforcement_security,safety_enforcement_security
+467197,"@XboxSupport Whyyy??? I’ve never done anything bad, so why do I randomly get comms suspended? https://t.co/GXC3LyeL2G",safety_enforcement_security,safety_enforcement_security
+302034,@XboxSupport So then can you tag your good ol pals at enforcement? Or give me an email to send my request for proof to?,safety_enforcement_security,safety_enforcement_security
+1292437,"@115786 So u guys suspend me for bad behavior ok, fine... But i cant even get my Rewards in FIFA? That i worked my ass off to get it?ITs dumb",safety_enforcement_security,safety_enforcement_security
+2104556,Come on @XboxSupport you suspend me but he uses a mental disability to try and hurt my feelings https://t.co/zcn71BMKfQ,safety_enforcement_security,safety_enforcement_security
+1284218,"@XboxSupport i don't have case review, my ban is finished but i still can't play, WHY ?
+how i contact enforcement team ?",safety_enforcement_security,safety_enforcement_security
+2772830,@XboxSupport I cant submit a case review for 24hr suspension. I just want to know why I am suspended. As paying customer I think I deserve at least that.,safety_enforcement_security,safety_enforcement_security
+204483,"@MicrosoftHelps tried to login to the Xbox reward site, says it’s been migrated - Account has been suspended. What?",safety_enforcement_security,account_access_profile
+709761,@115786 @XboxSupport @187040 If I eventually get perma/console banned I will have lost Xbox and you will have lost a VERY loyal fan/supporter. I've played for YEARS!,safety_enforcement_security,safety_enforcement_security
+1298728,@XboxSupport @117331 kinda fed up of Xbox as a company now they have banned me for the 4th time now stupid and each time is 2 week bans,safety_enforcement_security,safety_enforcement_security
+407726,@XboxSupport -suspended how im not allowed and if u cant do anything about this remove me from the insider program completely,safety_enforcement_security,safety_enforcement_security
+2019398,@XboxSupport I was permanently banned recently and it said it has been upheld. Does that mean the ban will be lifted?,safety_enforcement_security,safety_enforcement_security
+735594,"MICROSOFT ENFORCEMENT AND AMBASSADORS.
+I'll write and say anything I want without you Nazis censoring me.
+GO.
+FUCK.
+YOURSELVES.
+@XboxSupport https://t.co/jlMd2Se8DC",safety_enforcement_security,safety_enforcement_security
+825645,@MicrosoftHelps i dearly need assistance on trying to suspend or ban this player that is clearly being racist to me I'd be thankful for help,safety_enforcement_security,safety_enforcement_security
+564261,"@XboxSupport Thanks, but why would I get banned for a message that I sent to my friend and didn’t get reported for? Was one of your workers just browsing my messages at that exact time?",safety_enforcement_security,safety_enforcement_security
+974238,@XboxSupport I filed for a review but after receiving the free review I clicked continue and it took me back to enforcement page.,safety_enforcement_security,safety_enforcement_security
+2244476,@XboxSupport this is not true you've banned me Harassment but i did not harass anybody and i have proof https://t.co/xIzab1eDEV,safety_enforcement_security,safety_enforcement_security
+1045802,@129564 explain( i was com banned) i know the reason.. 2 days later i get online banned for harassing and or threatening.. how when com banned..?,safety_enforcement_security,safety_enforcement_security
+99045,How’s this invisible lag switcher tank.... cheating cum junkie. Happens all to often and no body cares..cause companies still getting paid.. @45971 @19645 @115446 @115786 @XboxSupport https://t.co/FiBPiIcsyO,safety_enforcement_security,safety_enforcement_security
+598242,@XboxSupport hello. I need some support please about an enforcement notice as I don’t know what I’ve done,safety_enforcement_security,safety_enforcement_security
+1598409,@XboxSupport What is there to take a picture of I dont have no multiplayer upgrade.. ?,how_to_product_information,safety_enforcement_security
+2202308,@XboxSupport hello can i make a backup of my game progress from gta5 on a usbdrive on my xbox one to my one s,how_to_product_information,how_to_product_information
+2354210,"@XboxSupport Is something expensive broken? Reminds me of the old days when we used to get the old ""red ring of death"" surely with all you've learned that can't happen again, can it?",how_to_product_information,how_to_product_information
+657707,"@XboxSupport @130182 Hello support, they don’t want that I speak to a supervisor! How can I do? Please call me or contact me by mail!",how_to_product_information,safety_enforcement_security
+1494042,@115786 @XboxSupport hello why can I still not use Cortana in the Netherlands it’s a year now that it’s on Xbox I don’t mind talking English.,how_to_product_information,how_to_product_information
+2845898,@XboxSupport what is the expected date to release more sales here in japan from @115786 one X ? https://t.co/lGrGVpSFqo,how_to_product_information,other_or_needs_context
+881737,@XboxSupport can I record games dvr with an amd rx 580 video card?,how_to_product_information,how_to_product_information
+2899257,@XboxSupport What is the highest storage does the Xbox One X support for external hard drives?,how_to_product_information,how_to_product_information
+2080253,@115786 @XboxSupport how can u be a support when you aren't helpful I ask to speak with someone higher up then you and you tell me NO WTF,how_to_product_information,safety_enforcement_security
+2801079,@XboxSupport Can i change the age at all?,how_to_product_information,how_to_product_information
+763879,@XboxSupport Yes i do... How can i get my Xbox one account onto another Xbox because every time i try it ends up making a new account,how_to_product_information,account_access_profile
+1696976,@XboxSupport pls help how do i get it to work ? https://t.co/EYFcYIcYyx,how_to_product_information,how_to_product_information
+1462325,@XboxSupport when can I pre load my digital COD WWII,how_to_product_information,game_content_download
+2244451,@XboxSupport just upgraded to an X. How do I associate the insider program to this new system?,how_to_product_information,how_to_product_information
+2047674,"@XboxSupport Hey every time I stream on Mixer my stream is extremely compressed and beyond recognition, how can I fix this?",how_to_product_information,connectivity_xbox_live
+1960890,@15913 How do I work for Xbox?,how_to_product_information,how_to_product_information
+2868605,"@XboxSupport So I guess my question is, how does that work? Do I need to now get 305 more points before the end of the month, or am I sitting at 265 like I actually have?",how_to_product_information,billing_codes_refunds
+1590828,How do you get this to work????? @XboxSupport https://t.co/0w9dRfw0JI,how_to_product_information,safety_enforcement_security
+1184340,@XboxSupport I tweeted you several days ago. I accidentally paid for a gold membership to another user. How do I change that?,how_to_product_information,subscription_game_pass_gold
+2453127,@XboxSupport So i contacted amazon customer support they don't even know what is going on and its really frustrating,how_to_product_information,safety_enforcement_security
+1514929,Every time I try to load up WW2 it's telling me I'm too early? Anyone else? @XboxSupport,other_or_needs_context,game_content_download
+2734710,@XboxSupport Resolved itself again after 10-15 mins... still annoying though 😕,other_or_needs_context,account_access_profile
+2196974,@XboxSupport  https://t.co/jjH1hVTmEt,other_or_needs_context,other_or_needs_context
+2815678,@XboxSupport so I bought the $10 cod points for ww2 and o haven't gotten them yet,other_or_needs_context,billing_codes_refunds
+707169,@XboxSupport telltales guardians of the galaxy episode 4 released today but nothing is up on the xbox store? Help,other_or_needs_context,billing_codes_refunds
+913113,@XboxSupport when will episode 4 of @286416 #GuardiansoftheGalaxy be available? It was suppose to be released today?,other_or_needs_context,billing_codes_refunds
+1777089,@XboxSupport Is it normal for my 1440p monitor to only be seen as 1080p on my Xbox One X?,other_or_needs_context,how_to_product_information
+2971422,@XboxSupport Your service is acting up. Cannot access my games “Do you own this game” for 10 of my games,other_or_needs_context,game_content_download
+2952622,@115786 @XboxSupport you should add the ability to export captures from the Xbox app to your phone library I don't have a pc so I can't show friends who aren't in the Xbox community cool things I'm doing,other_or_needs_context,how_to_product_information
+1527480,Streaming on @126456 for the first time in a while - check me out - https://t.co/YPbuRpD39L,other_or_needs_context,safety_enforcement_security
+512789,@161810 It won’t let me,other_or_needs_context,account_access_profile
+566126,@XboxSupport @115787 Will Midtown Madness 3 come to Xbox One's reverse compatibility list? I've been dying to play that game again.,other_or_needs_context,game_content_download
+866666,@XboxSupport thanks for your help,other_or_needs_context,account_access_profile
+2372817,@XboxSupport when's the next sale I want to spend money,other_or_needs_context,subscription_game_pass_gold
+2710647,@XboxSupport it's just plugged into the wall,other_or_needs_context,connectivity_xbox_live
+366298,@XboxSupport I factory reset my Xbox,other_or_needs_context,connectivity_xbox_live
+466464,@XboxSupport Already did twice.,other_or_needs_context,billing_codes_refunds
+457377,"@XboxSupport It happens a lot.  Most are new discs, like Star Trek into Darkness the other night.  All discs work in our Sony Bluray player.  Sometimes after multiple reboots and settings changes they work, but this is just unacceptable and a real failure on your company's part.",other_or_needs_context,other_or_needs_context
+1589620,@XboxSupport Wow. Great advice. Let me have you turn off and turn on your life and see if that fixes the short between your ears. Thanks.,other_or_needs_context,other_or_needs_context
+2215160,@XboxSupport why does my Xbox freeze up so much? I've had to restart it 4 times in the past 2 hours... 👀,other_or_needs_context,connectivity_xbox_live
+1639335,@XboxSupport I need to restart my xbox home,other_or_needs_context,how_to_product_information
+722740,@XboxSupport dm me. I have a problem that I need help with,other_or_needs_context,account_access_profile
+2983282,@XboxSupport Best support for ever .. thanx,other_or_needs_context,account_access_profile
+174328,@156864 @XboxSupport Really bad luck or Microsoft just created an RMA nightmare!,other_or_needs_context,other_or_needs_context
+1021639,@XboxSupport can you fix the random hackers going around Xbox as girls and messaging you there website that is fake the bots are stupid,other_or_needs_context,safety_enforcement_security
+118728,@XboxSupport @142320 My gamer tag is combedturnip73,other_or_needs_context,account_access_profile
+767470,@117344 @116547 Bring that shit to Xbox and you’ll have more,other_or_needs_context,safety_enforcement_security
+2108988,@XboxSupport It loads for a while and then kicks me to the dashboard with an error message acknowledging it's taking too long to load,other_or_needs_context,account_access_profile
+2808352,Hey @115786 @XboxSupport do you get MS Reward points when you shop directly through your xb1 store on the console?,other_or_needs_context,how_to_product_information
+1151451,@XboxSupport I moved here for a year because im in the military.,other_or_needs_context,billing_codes_refunds
+458648,"@XboxSupport The current channel was still coming through, but any attempt to access the guide or change the channel did not work. I think many like me (after a hard restart) then attempted to set up oneguide again, and was met with the provider set up error",other_or_needs_context,account_access_profile
+2465160,@XboxSupport @128281 already helped me out and I am good to go,other_or_needs_context,account_access_profile
+2124023,@XboxSupport Newest Beta Xbox Insider (Preview) Build,other_or_needs_context,other_or_needs_context
+2868614,@XboxSupport don't think thats how you spell it https://t.co/IGG7SoKoNz,other_or_needs_context,safety_enforcement_security
+367215,@XboxSupport Would that be a problem,other_or_needs_context,connectivity_xbox_live
+2324340,@XboxSupport 2 controlers dont work i can send a video for proof im I'm very concerned and I don't want to pay for something that was already new,other_or_needs_context,billing_codes_refunds
+2925690,@XboxSupport Hey i am having problems with my xbox like,other_or_needs_context,connectivity_xbox_live
+1482260,@XboxSupport I'm having an issue where I can't buy any games on the store. I can buy add-ons but not games.,other_or_needs_context,how_to_product_information
+406857,@XboxSupport I used it this morning and it worked perfectly and I thank you for having the free weekend but now I cannot use it.,other_or_needs_context,account_access_profile
+495499,"@XboxSupport External drive. However, the issue happens when first turning on the console also.",other_or_needs_context,account_access_profile

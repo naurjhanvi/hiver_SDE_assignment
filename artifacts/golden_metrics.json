@@ -1,0 +1,8 @@
+{
+  "rows": 200,
+  "prediction_file": "artifacts\\golden_predictions.jsonl",
+  "intent_accuracy": 0.47,
+  "intent_macro_f1": 0.4551,
+  "auto_handle_f1": 0.431,
+  "unsafe_auto_handle_rate": 0.1935
+}

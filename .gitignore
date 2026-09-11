@@ -1,0 +1,22 @@
+# Local runtime/downloads: required only to reproduce the optional free LLM judge.
+OllamaSetup.exe
+OllamaSetup-copy.exe
+ollama-windows-amd64.zip
+ollama-runtime/
+ollama-models/
+ollama-download*.log
+
+# Machine-generated cache and temporary install logs.
+__pycache__/
+deps/
+pip-*.log
+vendor/
+
+# Superseded local retrieval cache and smoke-test output.
+artifacts/case_embeddings_minilm_700.npy
+artifacts/development_metrics.json
+artifacts/development_predictions.jsonl
+
+# Saved browser shells are local collection evidence; the curated JSONL catalog is versioned.
+dataset/xbox_support_webpages/*_files/
+dataset/xbox_support_webpages/*.html
