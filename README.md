@@ -2,7 +2,7 @@
 
 This project turns historical `@XboxSupport` Twitter conversations into a conservative first-line support agent. Given a customer post, it predicts one of nine intents, retrieves comparable historical cases and official Xbox Support pages, drafts a response, and chooses **auto-handle** or **escalate** with an explicit reason.
 
-**Report:** [XboxSupport Agent Report](XboxSupport_Agent_Report.docx)
+**Report:** [XboxSupport Agent Report](https://docs.google.com/document/d/1kc9Miabsi0T_HVL1QmscUt7CPAyPbRvboz1BsYXHsQY/edit?usp=sharing)
 
 The current result is a useful prototype, **not deployment-ready**: on the locked 200-message golden set it reaches 0.455 macro-F1 for intent and has a 19.4% unsafe-auto-handle rate among messages it auto-handles. That safety result is the central finding.
 
@@ -11,7 +11,8 @@ The current result is a useful prototype, **not deployment-ready**: on the locke
 Requires only Python 3.11+; no package installation is needed.
 
 ```powershell
-cd C:\Users\ranij\projects\hiver
+cd hiver_SDE_assignment
+
 python .\run_intent_evaluation.py
 python .\evaluate_agent.py --split golden
 python .\support_agent.py "My Game Pass subscription will not renew"
