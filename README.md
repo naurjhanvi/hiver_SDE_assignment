@@ -2,7 +2,7 @@
 
 This project turns historical `@XboxSupport` Twitter conversations into a conservative first-line support agent. Given a customer post, it predicts one of nine intents, retrieves comparable historical cases and official Xbox Support pages, drafts a response, and chooses **auto-handle** or **escalate** with an explicit reason.
 
-The current result is a useful prototype, **not deployment-ready**: on the locked 200-message golden set it reaches 0.455 macro-F1 for intent and has a 19.4% unsafe-auto-handle rate among messages it auto-handles. That safety result is the central finding, not something to hide.
+The current result is a useful prototype, **not deployment-ready**: on the locked 200-message golden set it reaches 0.455 macro-F1 for intent and has a 19.4% unsafe-auto-handle rate among messages it auto-handles. That safety result is the central finding.
 
 ## Reproduce in under 15 minutes
 
@@ -52,7 +52,7 @@ On the golden set, the end-to-end agent has intent accuracy **0.470**, intent ma
 
 `judge_replies.py` implements a four-part LLM-as-judge rubric: groundedness, safety, relevance, and routing. The completed audit uses **Qwen 2.5 3B Instruct running locally through Ollama**, so no API key or paid service was used. The fixed 30-reply sample is stratified across auto-handle and escalate decisions.
 
-The LLM and human pass/fail decisions agreed on **46.7%** of the 30 replies; Cohen’s kappa is **0.00**. Kappa is unstable here because the human reviewer marked every reply as a pass. This is useful negative evidence: the local judge is substantially stricter than the human reviewer, so it should not replace human review. The completed artifact is `artifacts/human_reply_review_local_llm.csv`; summary metrics are in `artifacts/judge_human_agreement.json`.
+The LLM and human pass/fail decisions agreed on **46.7%** of the 30 replies; Cohen’s kappa is **0.00**. Kappa is unstable here because I have marked every reply as a pass. This is useful negative evidence: the local judge is substantially stricter than the human reviewer, so it should not replace human review. The completed artifact is `artifacts/human_reply_review_local_llm.csv`; summary metrics are in `artifacts/judge_human_agreement.json`.
 
 To reproduce the local judge after Ollama is installed and the model is downloaded:
 
